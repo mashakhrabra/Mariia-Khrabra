@@ -20,7 +20,7 @@ I work with **Tableau, Excel, SQL, and Python**, and I enjoy creating dashboards
 
 ### 🔹 Salary Dashboard in Tableau  
 Interactive dashboard analyzing salary trends by job title, experience, company size, and country.  
-👉 *View project:* https://github.com/mashakhrabra/tableau-salary-dashboard
+👉 *View project:* [https://github.com/mashakhrabra/tableau-salary-dashboard](https://github.com/mashakhrabra/tableau_salary_dashboard)
 
 ---
 
